@@ -1,1 +1,1 @@
-# heart-desease-prediction
+# stu performance prediction
